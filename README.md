@@ -117,7 +117,7 @@ Implementing is only a matter of how you do it. There's plenty of ways:
 - Render buffer
 ...
 
-But it all goes down to what is called **deferred rendering**.
+But it all goes down to what is called **deferred shading**.
 ![image](https://user-images.githubusercontent.com/108619637/233785864-5fc244da-7b00-4f01-8309-a8a7e8a57ad8.png)
 
 In short, just means that you go through processes before rendering your actual frame.
